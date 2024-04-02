@@ -17,10 +17,10 @@ padding: 14px 0;
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 7px;
-    font-size: 14px;
+    font-size: 12px;
 }
 .cabecalho-imagem{
-    width: 10%;
+    width: 12%;
     padding: 0 15px;
 }
 .cabecalho-titulo{
@@ -28,15 +28,15 @@ padding: 14px 0;
     padding: 20px 0;
 }
 .escola-imagem {
-    width: 10%;
+    width: 20%;
 
 }
 .escola{
     background-image: linear-gradient(#C5AA, white);
     color: black;
     display: flex;
-    justify-content:space-around ;
-    align-items: space-around;
+    justify-content:center ;
+    align-items: center;
     padding: 24px 0;
 }
 .escola-titulo{
